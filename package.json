@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thiagocamposde/search-books.git"
+    "url": "git+https://github.com/thiagocamposde/search-books-challenge.git"
   },
   "author": "Thiago de Campos",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thiagocamposde/search-books/issues"
+    "url": "https://github.com/thiagocamposde/search-books-challenge/issues"
   },
-  "homepage": "https://github.com/thiagocamposde/search-books#readme",
+  "homepage": "https://github.com/thiagocamposde/search-books-challenge#readme",
   "dependencies": {
     "axios": "^0.19.0",
     "concurrently": "^4.1.2",
