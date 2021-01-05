@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/thiagocamposde/search-books-challenge#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "concurrently": "^4.1.2",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
